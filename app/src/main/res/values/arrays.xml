@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones_array">
+        <item>Selecciona una opción…</item>
+        <item>Electromecánica</item>
+        <item>Electrónica</item>
+        <item>Gestión Empresarial</item>
+        <item>Industrial</item>
+        <item>Sistemas Computacionales</item>
+        <item>TICS</item>
+    </string-array>
+</resources>

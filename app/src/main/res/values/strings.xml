@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="ingresa_tu_fecha_de_nacimiento">Ingresa tu fecha de nacimiento</string>
+    <string name="formulario">Formulario</string>
+    <string name="ingresa_tu_correo">Ingresa tu correo</string>
+    <string name="ingresa_tu_n_mero_de_contacto">Ingresa tu número de contacto</string>
+    <string name="ingresa_tu_nombre">Ingresa tu nombre</string>
+    <string name="enviar">Enviar</string>
+    <string name="que_carrera_estas_estudiando">Que carrera estas estudiando</string>
+    <string name="selecciona_una_de_las_opciones">Selecciona una de las opciones</string>
+    <string name="otro">Otro</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="dd_mm_aa">DD/MM/AA</string>
+    <string name="e_mail">E-mail</string>
+    <string name="n_mero_de_telefono">Número de Telefono</string>
+    <string name="name">Name</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
